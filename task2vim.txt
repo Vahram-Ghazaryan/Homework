@@ -1,0 +1,16 @@
+ - Task1: Update file content.
+                             1. Initially vim is in Normal mode.
+                             2. Press   gg   to go to the beginning of the first line.
+                             3. Press  q   and  a (any letter) to pass in Recording mode.
+                             4. Search   / [    
+                             5. Press  v  to pass in Visual mode.
+                             6.  Mark the block.
+                             7. Press  d  to delete the block.
+                             8. Press  0  to move start of line.
+                             9. Search   / i
+                           10. Press   a   to pass in Insert mode.
+                           11. Press   space
+                           12. Press  Esc  to pass in Normal mode.
+                           13. Press p to paste the block.
+                           14. Press q to finish Recording mode.
+                           15. Press 7@a to update file. 

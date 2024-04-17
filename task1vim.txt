@@ -1,0 +1,10 @@
+ - Task 1: Find matching word count in a file.
+                              1. Open the text file in vim.             vim <file_name>
+                              2. Switch from Normal mode to Command mode.
+                              3. Write this command            :%s/word//gn
+                              4. Write instead of "word" matching word. (and press Enter)
+                   - Task 2: Comment out the lines.
+                               1. Open the program file in vim.       vim <file_name>
+                               2. Go to the first line you want to comment, press ctrl + v (switch from Normal mode to Visual mode. ) , and select  until the last line.
+                               3. Press shift + i + // + esc
+                               4. After a second it will be ready.
